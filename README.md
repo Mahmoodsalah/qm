@@ -18,19 +18,15 @@ It's built with open source in mind. Pick your own harness and model and switch 
 them — Pi, OpenCode, Codex, and Claude Code all drive the same core, so a deployment
 isn't tied to any single vendor.
 
+
 ## Features
 
-- **Personal and shared scopes.** People customize the agent to be _theirs_, and still
-  work with it collaboratively in Slack channels and projects.
-- **Slack and web.** The same identity and configuration carries between Slack and the
-  web app.
-- **Admin control.** Set org-level configuration, a security posture, and which
-  harnesses and models are available.
-- **Web apps.** Spin up custom internal apps and publish them to the right people.
-- **Shared skills.** Skills are scope-owned and shareable by grant, with admin-gated
-  promotion to the whole org and skill packs imported from git repositories.
-- **Background work.** Crons and watches run work while nobody's watching.
-
+- **Personalized & Shared Scopes:** Tailor the agent to your individual workflow while collaborating seamlessly in shared Slack channels and project rooms.
+- **Unified Slack & Web Experience:** Maintain a consistent identity, context, and configuration whether you are working in Slack or using the web app.
+- **Robust Admin Control:** Manage organization-wide security postures, global settings, and permitted agent harnesses and models.
+- **Custom Web Apps:** Quickly spin up internal web applications and publish them directly to the right team members.
+- **Git-Powered & Scoped Skills:** Utilize scope-owned skills shared via grants, promote them to the broader organization with admin approval, or import entire skill packs straight from git repositories.
+- **Automated Background Work:** Keep your projects moving around the clock with background crons and automated watches.
 ## What you can do with it
 
 - Search internal notes, email, documents, databases, and the web together
